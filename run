@@ -1,0 +1,4 @@
+#!/bin/zsh
+cc -g -Wall -Wextra -O0 main.cpp -o main
+./main
+

@@ -1,0 +1,75 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXFileReference section */
+		354472802CCEB77100A24ED5 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = /Users/vb/dev/cpp/jparser/main.cpp; sourceTree = "<absolute>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		35E01E532CCEB5A4004B5358 = {
+			isa = PBXGroup;
+			children = (
+				354472802CCEB77100A24ED5 /* main.cpp */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		35E01E542CCEB5A4004B5358 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1600;
+			};
+			buildConfigurationList = 35E01E572CCEB5A4004B5358 /* Build configuration list for PBXProject "dbg" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 35E01E532CCEB5A4004B5358;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		35E01E582CCEB5A4004B5358 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		35E01E592CCEB5A4004B5358 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		35E01E572CCEB5A4004B5358 /* Build configuration list for PBXProject "dbg" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				35E01E582CCEB5A4004B5358 /* Debug */,
+				35E01E592CCEB5A4004B5358 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 35E01E542CCEB5A4004B5358 /* Project object */;
+}
